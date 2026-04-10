@@ -1,0 +1,24 @@
+{
+  "name": "tc3005b.502---jose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseangel2005/TC3005B.502---Jose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseangel2005/TC3005B.502---Jose/issues"
+  },
+  "homepage": "https://github.com/joseangel2005/TC3005B.502---Jose#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
